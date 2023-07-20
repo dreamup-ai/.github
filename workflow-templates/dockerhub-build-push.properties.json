@@ -1,0 +1,5 @@
+{
+  "name": "Build and Push to DockerHub",
+  "description": "Builds a Docker image for amd64 and arm64 and pushes it to DockerHub",
+  "filePatterns": "^Dockerfile"
+}

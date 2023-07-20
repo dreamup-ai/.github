@@ -2,7 +2,7 @@ name: Push README updates to DockerHub
 on:
   push:
     branches:
-      - main
+      [ $default-branch ]
     paths:
       - README.md
       - .github/workflows/dockerhub-description.yml

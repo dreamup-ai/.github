@@ -3,7 +3,7 @@ name: Docker Build and Push
 on:
   push:
     branches:
-      - main
+      [ $default-branch ]
     paths-ignore:
       - README.md
 jobs:
