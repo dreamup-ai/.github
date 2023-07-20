@@ -1,5 +1,5 @@
 {
-  "name": "Build and Push to DockerHub",
-  "description": "Builds a Docker image for amd64 and arm64 and pushes it to DockerHub",
+  "name": "Push README to DockerHub Description",
+  "description": "Push README to DockerHub Description fpr image repository",
   "filePatterns": "^README.md"
 }
