@@ -1,4 +1,4 @@
 {
-  "name": "Run scheduled job monitor",
+  "name": "Run Scheduled Job Monitor",
   "description": "Run scheduled job monitor and post to discord if job fails"
 }

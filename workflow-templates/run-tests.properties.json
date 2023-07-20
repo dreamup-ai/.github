@@ -1,5 +1,5 @@
 {
-  "name": "Build dependencies and run tests",
+  "name": "Build Dependencies and Run Tests",
   "description": "Build dependencies and run tests using docker-compose",
   "filePatterns": ["^Dockerfile", "dependencies.yml"]
 }
