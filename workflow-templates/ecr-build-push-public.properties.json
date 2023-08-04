@@ -1,0 +1,5 @@
+{
+  "name": "Build and Push to ECR Public",
+  "description": "Builds a Docker image and pushes it to ECR Public",
+  "filePatterns": "^Dockerfile"
+}
